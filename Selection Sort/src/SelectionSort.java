@@ -1,3 +1,4 @@
+// Java program for implementation of Selection Sort
 public class SelectionSort {
     void sort(int arr[]) {
         int n = arr.length;
@@ -35,3 +36,4 @@ public class SelectionSort {
         ob.printArray(arr);
     }
 }
+/* This code is contributed by Rajat Mishra*/
